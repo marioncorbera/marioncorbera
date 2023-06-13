@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a little Data Scientist who wants to do 2 things<br>-> helping to understand Animal Behavior <br>-> helping Medical research and improving Health<br>
+I am a little Data Scientist who wants to help the world! <br>-> Biodiversity, Medical Research...
 
 
 ## 🌐 Socials:
